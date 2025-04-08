@@ -48,6 +48,11 @@ nav .right a {
   font-weight: 400;
 }
 
+nav .right a:hover {
+  color: #45a049;
+  transition: .3s;
+}
+
 .hero-section {
   display: flex;
   justify-content: space-between;
